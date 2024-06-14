@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "967408031618",
+    "firebase_url": "https://sanryoo-shopping-default-rtdb.firebaseio.com",
+    "project_id": "sanryoo-shopping",
+    "storage_bucket": "sanryoo-shopping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967408031618:android:326a2f8c20e0bdde04a19b",
+        "android_client_info": {
+          "package_name": "com.sanryoo.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967408031618-qm14t6n7m1c0mssn0or7sf339v87jcn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanryoo.shopping",
+            "certificate_hash": "fa5c25c51afda58d26f35d49580610e28b10aee7"
+          }
+        },
+        {
+          "client_id": "967408031618-ldejdiadjh0v7j1qbh0gkai2j2p4pgrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWmSheOtUljclvDHMeapztOdg8Ipu2mT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967408031618-dn47li7q9an3s6m6ui9hhenqg12udr93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
